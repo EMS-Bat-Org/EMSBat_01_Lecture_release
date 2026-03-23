@@ -1,0 +1,14 @@
+pandas
+jupyterlab
+numpy
+plotly
+matplotlib
+seaborn
+pyomo
+ipywidgets
+openpyxl
+xlrd
+anywidget
+suntime
+simses
+scikit-glpk
